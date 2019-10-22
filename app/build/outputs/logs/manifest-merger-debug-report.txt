@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2d4b29a26fa940a2654fa67fc7e0e02c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c209a76782a3c154eda3c33d8ac5f137/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/58cf9fd90bf4ffc61d732ada06166198/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/6d305c34aed803c783de2874914dd1e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2f9372e50d691bd180155e06ee5d216c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e0ed4cb2305ba79bab11d30154817d4d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a887064e5362f9738da57109c0b20276/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/e3dfcdb09c65422fad6f2913b5f238ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/00acaa477f1c2ef1111d9ec33033c423/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/bb1d2d8616a512d4e783a4ff01775098/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/225740a4eb74d9cc298844f881630677/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2006ebd6259561c313e6226f68a5f626/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/630581b07f5b8a820b5a300889476427/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3c1af5bb3c285d02974d9e892c700cc7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c850ef6d3d41051362d25f310a633015/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cc27ffa876ce15b661d6d1600daae6b2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/a663d6deff94a0d7785beee6c2555872/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8fc388039455e7ca18d810b087a8e503/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/178819767aeabcea7ac0845aecc77dbc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/3c709345d5af786131ace29a0d7237e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/dd22b77c2aebabc3a40cd6741cb7f145/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f4c0a0c06ffc92a436266315480a0c29/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4129f45b5c85186dd7becb2e6c0737ab/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/67b0ddda5786e1c1474d2b3cde688fef/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8a0ba63ca18fb144ce7fd65a0fd792e7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c7eab6d1bd6d5c12ef1602d86fd7e494/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/072e21f79cf05e6742a86c8c0cd7f2c2/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:3:58-90
+		INJECTED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c209a76782a3c154eda3c33d8ac5f137/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c209a76782a3c154eda3c33d8ac5f137/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cc27ffa876ce15b661d6d1600daae6b2/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cc27ffa876ce15b661d6d1600daae6b2/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/a663d6deff94a0d7785beee6c2555872/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/a663d6deff94a0d7785beee6c2555872/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cc27ffa876ce15b661d6d1600daae6b2/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:8:13-45
+	tools:ignore
+		ADDED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:11:72-111
+	android:roundIcon
+		ADDED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:11:13-71
+activity#com.gui.antonio.jumper.MainActivity
+ADDED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:screenOrientation
+		ADDED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:12:48-84
+	android:name
+		ADDED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2d4b29a26fa940a2654fa67fc7e0e02c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/2d4b29a26fa940a2654fa67fc7e0e02c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c209a76782a3c154eda3c33d8ac5f137/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c209a76782a3c154eda3c33d8ac5f137/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/58cf9fd90bf4ffc61d732ada06166198/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/58cf9fd90bf4ffc61d732ada06166198/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/6d305c34aed803c783de2874914dd1e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/6d305c34aed803c783de2874914dd1e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2f9372e50d691bd180155e06ee5d216c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2f9372e50d691bd180155e06ee5d216c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e0ed4cb2305ba79bab11d30154817d4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e0ed4cb2305ba79bab11d30154817d4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a887064e5362f9738da57109c0b20276/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a887064e5362f9738da57109c0b20276/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/e3dfcdb09c65422fad6f2913b5f238ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/e3dfcdb09c65422fad6f2913b5f238ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/00acaa477f1c2ef1111d9ec33033c423/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/00acaa477f1c2ef1111d9ec33033c423/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/bb1d2d8616a512d4e783a4ff01775098/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/bb1d2d8616a512d4e783a4ff01775098/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/225740a4eb74d9cc298844f881630677/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/225740a4eb74d9cc298844f881630677/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2006ebd6259561c313e6226f68a5f626/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2006ebd6259561c313e6226f68a5f626/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/630581b07f5b8a820b5a300889476427/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/630581b07f5b8a820b5a300889476427/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3c1af5bb3c285d02974d9e892c700cc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3c1af5bb3c285d02974d9e892c700cc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c850ef6d3d41051362d25f310a633015/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c850ef6d3d41051362d25f310a633015/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cc27ffa876ce15b661d6d1600daae6b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cc27ffa876ce15b661d6d1600daae6b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/a663d6deff94a0d7785beee6c2555872/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/a663d6deff94a0d7785beee6c2555872/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8fc388039455e7ca18d810b087a8e503/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8fc388039455e7ca18d810b087a8e503/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/178819767aeabcea7ac0845aecc77dbc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/178819767aeabcea7ac0845aecc77dbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/3c709345d5af786131ace29a0d7237e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/3c709345d5af786131ace29a0d7237e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/dd22b77c2aebabc3a40cd6741cb7f145/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/dd22b77c2aebabc3a40cd6741cb7f145/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f4c0a0c06ffc92a436266315480a0c29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f4c0a0c06ffc92a436266315480a0c29/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4129f45b5c85186dd7becb2e6c0737ab/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4129f45b5c85186dd7becb2e6c0737ab/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/67b0ddda5786e1c1474d2b3cde688fef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/67b0ddda5786e1c1474d2b3cde688fef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8a0ba63ca18fb144ce7fd65a0fd792e7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8a0ba63ca18fb144ce7fd65a0fd792e7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c7eab6d1bd6d5c12ef1602d86fd7e494/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c7eab6d1bd6d5c12ef1602d86fd7e494/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/072e21f79cf05e6742a86c8c0cd7f2c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/gtoledo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/072e21f79cf05e6742a86c8c0cd7f2c2/AndroidManifest.xml:20:5-44
+INJECTED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gtoledo/Documents/Workspace/Jumper-game/app/src/main/AndroidManifest.xml
